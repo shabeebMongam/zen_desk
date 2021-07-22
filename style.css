@@ -24,3 +24,41 @@
     width: 442px;
     height: 250px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.part_one{
+    background-color: #17494d;
+    overflow: hidden;
+}
+.li1{
+    width: fit-content;
+    display: inline;
+    margin: 8px;    
+}
+.nav1{
+    float: right;
+}.header{
+    max-width: 90em;
+
+}.a1{
+    text-decoration: none;
+    color: white;
+
+}
