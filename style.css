@@ -48,19 +48,38 @@
 .part_one{
     background-color: #17494d;
     overflow: hidden;
+    position: absolute;
+    width: 100%;
 }
 .li1{
     width: fit-content;
     display: inline;
     margin: 8px;    
 }
-.nav1{
+.aa{
     float: right;
-}.header{
-    max-width: 90em;
+}
+.nav1{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+.header{
+    max-width: 75em;
+    margin: auto;
 
 }.a1{
     text-decoration: none;
     color: white;
-
+}
+.a1:hover{
+    text-decoration: underline;
+}
+.ab{
+    float: left;
+    margin: 20px 30px;
+}
+.ac{
+    float: right;
+    margin:20px 30px;
 }
