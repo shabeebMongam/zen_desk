@@ -48,8 +48,10 @@
 .part_one{
     background-color: #17494d;
     overflow: hidden;
-    position: absolute;
     width: 100%;
+
+}.aaa{
+    position: absolute;
 }
 .li1{
     width: fit-content;
@@ -108,4 +110,30 @@
 .ac{
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
     font-weight: 600;
+}
+.xy{
+    margin-top: 150px;
+    display: flex;
+}
+.xy>*{
+    flex-basis: 100%;
+}
+.xz{
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 78px;
+}
+.x1{
+    color: #CE9FB7;
+}
+.x2{
+    color: #FED678;
+}
+.x3{
+    color: #00A656;
+    text-decoration:underline;
+}
+.x4{
+    color: #30AABC;
+    text-decoration:underline;
 }
