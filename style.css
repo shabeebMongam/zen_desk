@@ -8,6 +8,8 @@
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
+    background: #fed6a8;
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
 
 }
 .part_two_left{
