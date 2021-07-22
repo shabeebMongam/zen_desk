@@ -4,19 +4,28 @@
     padding: 0px;
 }
 .part_two{
-    width: 100em;
+    width: 100%;
     margin: 0px auto;
-    display: flex;
-    flex-basis: 100%;
     background: #fed6a8;
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    padding: 4%;
+    
 
+}
+.part_2{
+    width: fit-content;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex: 50%;
 }
 .part_two_left{
     margin-top: 24px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    color: #03363d;
 }
 .part_two_left h2{
     margin-top: 24px;
