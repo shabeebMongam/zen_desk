@@ -4,7 +4,7 @@
     padding: 0px;
 }
 .part_two{
-    width: 60%;
+    width: 75em;
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
@@ -25,6 +25,11 @@
 .part_two_right img {
     width: 442px;
     height: 250px;
+}
+.part_three{
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    text-align: center;
+    color: #17494d;
 }
 
 
