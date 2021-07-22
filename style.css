@@ -4,10 +4,10 @@
     padding: 0px;
 }
 .part_two{
-    width: 75em;
+    width: 100em;
     margin: 0px auto;
     display: flex;
-    justify-content: space-between;
+    flex-basis: 100%;
     background: #fed6a8;
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
 
@@ -29,7 +29,18 @@
 .part_three{
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
     text-align: center;
-    color: #17494d;
+    color: #03363d;
+    margin-top: 40px;
+    
+}
+.h_1{
+    font-size: 50px;
+    font-weight: 600;
+    
+}
+.p_1{
+    margin-top: 2.5%;
+    line-height: 1.5em;
 }
 
 
