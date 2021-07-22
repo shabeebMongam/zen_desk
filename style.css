@@ -81,3 +81,29 @@
     float: right;
     margin:20px 30px;
 }
+.btn{
+    padding: 15px 25px;
+    border-style: none;
+    border-radius: 5px;
+}
+.btn1{
+    background-color: #ECE0CE;
+    color:#17494d ;
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+}
+.btn:hover{
+    background-color: white;
+    transition-duration: 500ms;
+}
+.a2{
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+}
+.a3{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+}
+.ac{
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    font-weight: 600;
+}
