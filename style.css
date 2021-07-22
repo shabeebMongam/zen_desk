@@ -92,14 +92,19 @@
     margin:20px 30px;
 }
 .btn{
-    padding: 15px 25px;
-    border-style: none;
-    border-radius: 5px;
+    padding: 15px 40px;
+    font-weight: 700;
+    border-radius: 2px;
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    font-size: 16px;
 }
 .btn1{
     background-color: #ECE0CE;
     color:#17494d ;
-    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    
+ 
+    border-style: none;
+    
 }
 .btn:hover{
     background-color: white;
@@ -123,6 +128,7 @@
 }
 .xy>*{
     flex-basis: 100%;
+    margin-bottom: 50px;
 }
 .xz{
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
@@ -142,4 +148,19 @@
 .x4{
     color: #30AABC;
     text-decoration:underline;
+}.pp{
+    font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
+    font-size: 1.3vw;
+    line-height:1.5;
+    color: white;
+    width: fit-content;
+    margin: auto;
+}.btn2{
+    background-color: #17494d;
+    border-style:double;
+    border-color: #fed6a8;
+    color: #ECE0CE;
+    margin-top: 40px;
+}.btt{
+    margin-left: 50px;
 }
