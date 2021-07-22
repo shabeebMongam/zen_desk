@@ -155,10 +155,12 @@
 .x3{
     color: #00A656;
     text-decoration:underline;
+    text-decoration-color: white;
 }
 .x4{
     color: #30AABC;
     text-decoration:underline;
+    text-decoration-color: white
 }.pp{
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
     font-size: 1.3vw;
@@ -175,3 +177,5 @@
 }.btt{
     margin-left: 50px;
 }
+.btnss{
+    width: fit-content;
