@@ -84,7 +84,7 @@
     overflow: hidden;
 }
 .header{
-    max-width: 75em;
+    max-width: 70em;
     margin: auto;
 
 }.a1{
@@ -163,7 +163,7 @@
     text-decoration-color: white
 }.pp{
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
-    font-size: 1.3vw;
+    font-size: 18px;
     line-height:1.5;
     color: white;
     width: fit-content;
@@ -174,8 +174,9 @@
     border-color: #fed6a8;
     color: #ECE0CE;
     margin-top: 40px;
-}.btt{
-    margin-left: 50px;
+    margin-left: 15px;
 }
-.btnss{
+.bttt{
+    max-width: 25em;
     width: fit-content;
+}
