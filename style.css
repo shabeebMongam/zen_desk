@@ -183,7 +183,7 @@
 }
 .xy>*{
     flex-basis: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
 }
 .xz{
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
@@ -198,13 +198,9 @@
 }
 .x3{
     color: #00A656;
-    text-decoration:underline;
-    text-decoration-color: white;
 }
 .x4{
     color: #30AABC;
-    text-decoration:underline;
-    text-decoration-color: white
 }.pp{
     font-family: sharp sans en,sharp sans accents,sharp sans symbols,sharp sans,Arial,sans-serif;
     font-size: 18px;
@@ -226,4 +222,13 @@
 }
 .mm{
     margin-top: 30px;
+}
+.xb{
+    border-block-end-style: solid;
+    border-block-end-width: 5px;
+    border-block-end-color: white;
+}.immm{
+    position: absolute;
+    margin-left: 11vw;
+    top: 30em;
 }
