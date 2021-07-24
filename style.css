@@ -216,6 +216,9 @@
     margin-top: 40px;
     margin-left: 15px;
 }
+.btn2:hover{
+    color: #17494d;
+}
 .bttt{
     max-width: 25em;
     width: fit-content;
