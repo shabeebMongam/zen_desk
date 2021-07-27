@@ -122,6 +122,18 @@
 .part_three_right{
     /* border: solid; */
 }
+.part_4{
+    width: 80%;
+    margin: 30px auto 30px auto;
+    /* border:  solid; */
+    display: flex;
+    justify-content: center;
+}
+.part_4 img{
+    background-size: contain;
+}
+
+
 
 
 /* ########################################################################################################## */
