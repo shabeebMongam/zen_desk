@@ -80,6 +80,13 @@
     font-size: 1.5rem ;
 
 }
+.part_three_subContainer{
+    width: 60%;
+    margin: 100px auto 0px auto;
+    display: flex ;
+    justify-content: space-between;
+
+}
 
 
 /* ########################################################################################################## */
