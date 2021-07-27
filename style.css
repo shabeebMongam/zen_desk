@@ -301,3 +301,8 @@
     border-block-end: #c38f00;
     border-block-end-style: solid;
 }
+@media only screen and (max-width: 700px){
+    .sec1{
+        flex-direction: column;
+    }
+}
