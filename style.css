@@ -159,6 +159,9 @@
     .part_two_left a {
         padding-top: 24px;
     }
+    .nav1{
+        display: none;
+    }
 }
 
 .part_one {
